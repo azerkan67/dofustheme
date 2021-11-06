@@ -1,12 +1,12 @@
- {
-    "author" : "azerkan", 
+[{
+    "author" : "Azerkan", 
     "name" : "AzerkanTheme", 
-    "keyWords" : "keyword1,keyword2",
-    "version" : "1.0.0",
+    "keyWords" : "Azerkan,Theme",
+    "version" : "2.61",
     "dofusVersion" : "2.61", 
-    "description" : "test theme", 
-    "url" : "https://github.com/azerkan67/dofustheme/raw/main/AzerkanTheme.7z",
-    "previewUrl" : "https://github.com/tomadele/dofus-almanax/blob/master/eniripsa.jpg", 
-    "creationDate" : "06/11/2021", 
-    "modificationDate" : "06/11/2021"
-    } 
+    "description" : "Thème développé par AZERKAN.", 
+    "url" : "https://github.com/azerkan67/dofustheme/raw/main/AzerkanTheme.7z?raw=true",
+    "previewUrl" : "https://github.com/UNIIPROD/DOFUS/blob/main/VIEWS/UNIIPROD.jpg?raw=true", 
+    "creationDate" : "01/01/2021", 
+    "modificationDate" : "01/01/2021"
+}]
